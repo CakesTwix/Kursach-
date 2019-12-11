@@ -1,0 +1,14 @@
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\bin\Debug\КурСова.exe.config
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\bin\Debug\КурСова.exe
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\bin\Debug\КурСова.pdb
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.csprojAssemblyReference.cache
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.AboutBox1.resources
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Password.resources
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.Properties.Resources.resources
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.csproj.GenerateResource.cache
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.csproj.CoreCompileInputs.cache
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.exe
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.pdb
+C:\Users\CakesTwix\source\repos\Курсовая\Курсовая\obj\Debug\КурСова.HelpForm.resources

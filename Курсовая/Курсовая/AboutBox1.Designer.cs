@@ -3,7 +3,7 @@
     partial class AboutBox1
     {
         /// <summary>
-        /// Обязательная переменная конструктора.
+        /// Обязательная переменная конструктора
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
